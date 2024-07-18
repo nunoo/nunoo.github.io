@@ -21,20 +21,20 @@ Below are some quick links for engineering resources.
 
 ## Child Docs
 
-[Productivity Tips](Engineering/ProductivityTips.md)
+[Productivity Tips](Engineering/Productivity-Tips.md)
 
-[Engineering Resources](Engineering/EngineeringResources.md)
+[Engineering Resources](Engineering/Engineering-Resources.md)
 
-[Onboard a Merchant](Engineering/OnboardAMerchant.md)
+[Onboard a Merchant](Engineering/Onboard-A-Merchant.md)
 
-[Best Practices](Engineering/BestPractices.md)
+[Best Practices](Engineering/Best-Practices.md)
 
-[Architecture & System Components](Engineering/ArchitectureAndSystemComponents.md)
+[Architecture & System Components](Engineering/Architecture-And-System-Components.md)
 
-[Recordings and Demo’s](Engineering/RecordingsAndDemos.md)
+[Recordings and Demo’s](Engineering/Recordings-And-Demos.md)
 
-[Shopify Integration](Engineering/ShopifyIntegration.md)
+[Shopify Integration](Engineering/Shopify-Integration.md)
 
-[Frontend Codebase Walkthru](Engineering/FrontendCodebaseWalkthru.md)
+[Frontend Codebase Walkthru](Engineering/Frontend-Codebase-Walkthru.md)
 
 [Storefront Onboarding](Engineering/StorefrontOnboarding.md)
