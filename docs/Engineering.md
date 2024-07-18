@@ -21,20 +21,20 @@ Below are some quick links for engineering resources.
 
 ## Child Docs
 
-[Productivity Tips](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Productivity%20Tips%20bfaa3f91172447809868b595a46cebab.md)
+[Productivity Tips](Engineering/ProductivityTips.md)
 
-[Engineering Resources](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Engineering%20Resources%2096923c9a74774a2caaa4616f2780de50.md)
+[Engineering Resources](Engineering/EngineeringResources.md)
 
-[Onboard a Merchant](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Onboard%20a%20Merchant%20ad1913ad00c84fd4ba5beea8bb929a4c.md)
+[Onboard a Merchant](Engineering/OnboardAMerchant.md)
 
-[Best Practices](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Best%20Practices%20533e981782474f9e95430235815b665a.md)
+[Best Practices](Engineering/BestPractices.md)
 
-[Architecture & System Components](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Architecture%20&%20System%20Components%205a4eb241d90c424e8785e0b10df4e595.md)
+[Architecture & System Components](Engineering/ArchitectureAndSystemComponents.md)
 
-[Recordings and Demo’s](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Recordings%20and%20Demo%E2%80%99s%20fa995cf51b0b4bf0b549965152ff515d.md)
+[Recordings and Demo’s](Engineering/RecordingsAndDemos.md)
 
-[Shopify Integration](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Shopify%20Integration%20ecab343294954f32ba7d4e811f084d39.md)
+[Shopify Integration](Engineering/ShopifyIntegration.md)
 
-[Frontend Codebase Walkthru](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Frontend%20Codebase%20Walkthru%2097425549099a4cdbb93a5a7c00c83450.md)
+[Frontend Codebase Walkthru](Engineering/FrontendCodebaseWalkthru.md)
 
-[Storefront Onboarding](Engineering%20ccd03cedd0784cbc86e93baa193406c3/Storefront%20Onboarding%2038566a9ccc274822a745b562e15c5bd4.md)
+[Storefront Onboarding](Engineering/StorefrontOnboarding.md)
